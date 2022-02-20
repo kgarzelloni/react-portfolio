@@ -7,6 +7,7 @@ import Projects from "./components/projects";
 import Contact from "./components/contact";
 import Footer from "./components/footer";
 import MyWork from "./components/mywork";
+import Resume from "./components/resume";
 import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Navbar />
         <Masthead />
         <About />
+        <Resume />
         <MyWork />
         <Projects />
         <Contact />

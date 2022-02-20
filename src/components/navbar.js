@@ -11,7 +11,8 @@ const Navbar = () => {
                     <ul className="navbar-nav ms-auto my-2 my-lg-0">
                         <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
                         <li className="nav-item"><a className="nav-link" href="#portfolio">Portfolio</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#resume">Contact</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#resume">Resume</a></li>
                     </ul>
                 </div>
             </div>

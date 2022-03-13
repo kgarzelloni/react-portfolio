@@ -10,7 +10,7 @@ const Masthead = () => {
                         <hr className="divider" />
                     </div>
                     <div className="col-lg-8 align-self-baseline">
-                        <p className="text-white-75 mb-5">Full stack certficate, University of Arizona. Experience with in-demand technologies including JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, React. </p>
+                        <p className="text-white-75 mb-5">Full Stack Web Development certficate, University of Arizona, March 2022. <br></br>Experience with in-demand technologies including HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB and React. </p>
                         <a className="btn btn-primary btn-xl" href="#about">Little bit about me</a>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ const Projects = () => {
         <div id="portfolio">
         <div className="container-fluid p-0">
             <div className="row g-0">
-                <div className="col-lg-4 col-sm-6">
+                <div className="col-lg-2 col-sm-6">
                     <a href="https://swab-swap.herokuapp.com/" title="Swab Swap">
                         <img className="img-fluid" src={SwabSwap} alt={"application swab swap logo"} />
                         <div className="portfolio-box-caption">
@@ -17,7 +17,7 @@ const Projects = () => {
                         </div>
                     </a>
                 </div>
-                <div className="col-lg-4 col-sm-6">
+                <div className="col-lg-2 col-sm-6">
                     <a href="https://emilyshurtz94.github.io/Group-Project-1/" title="Marvel Fan Page">
                         <img className="img-fluid" src={Marvel} alt={"Marvel Fanpage"} />
                         <div className="portfolio-box-caption">
@@ -26,7 +26,7 @@ const Projects = () => {
                         </div>
                     </a>
                 </div>
-                <div className="col-lg-4 col-sm-6">
+                <div className="col-lg-2 col-sm-6">
                     <a href="https://tabula-rasa122.herokuapp.com/" title="Tabula Rasa">
                         <img className="img-fluid" src={TabulaRasa} alt={"mental health wellness application"} />
                         <div className="portfolio-box-caption p-3">

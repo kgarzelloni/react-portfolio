@@ -590,7 +590,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 75%;
+  max-width: 100%;
   height: auto;
   padding: 20px;
   padding-top: 10px;
@@ -11296,7 +11296,7 @@ body {
 }
 
 .page-section {
-  padding: 8rem 0;
+  padding: 3rem 0;
 }
 
 .text-white-75 {

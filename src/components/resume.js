@@ -8,7 +8,7 @@ const Resume = () => {
         className="btn btn-light btn-xl"
         href="https://my.indeed.com/p/karrieg-xsdij2d"
       >
-        Here's my resume
+        Check out my my resume
       </a>
       </div>
       

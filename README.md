@@ -8,7 +8,7 @@ This objective of this assignment was to update my professional portfolio for en
 
 The following image shows the web application's appearance:
 
-![Screen Shot](/Users/karriegarzelloni/Desktop/fsf-projects/homework/react-portfolio/src/img/screenshot.png)
+<img width="1134" alt="screen shot" src="https://user-images.githubusercontent.com/94555980/160719422-c093dbca-f66e-4c83-8b4c-fdf65d052f5b.png">
 
 ## URL to GitHub Repository
 https://github.com/kgarzelloni/react-portfolio
@@ -18,15 +18,3 @@ https://github.com/kgarzelloni/react-portfolio
 https://kgarzelloni.github.io/react-portfolio/
 
 
-
-## About Bootsrap Template 
-
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
-
-
-## Copyright and License
-
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE) license.

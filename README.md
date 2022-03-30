@@ -8,7 +8,7 @@ This objective of this assignment was to update my professional portfolio for en
 
 The following image shows the web application's appearance:
 
-![Screen Shot](/Users/karriegarzelloni/Desktop/fsf-projects/homework/react-portfolio/src/img/screenshot.png)
+![Screen Shot](/Users/karriegarzelloni/Desktop/fsf-projects/homework/react-portfolio/src/img/screen shot.png)
 
 ## URL to GitHub Repository
 https://github.com/kgarzelloni/react-portfolio
